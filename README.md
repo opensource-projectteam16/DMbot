@@ -1,5 +1,3 @@
-# Project title : Feed_Me 
+# Project title : VAMAP
 
-We are staring to develope a useful application that Instagram users can search multiple hashtags which help them get more specific and desirable feeds. 
-
-In this repo, we will update our documents that explain detail of our project, functionalities of our app, and presentation files.
+In this repo, we will upload and updata only our reports and presentation files we used in the open source software class.
